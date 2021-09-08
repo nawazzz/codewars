@@ -128,3 +128,14 @@ function(x) {
 }
 indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 // -----------------------------------------------------------------------
+// function remove(s){
+//   let z = ''
+// for (let i = 0; i < s.length; i++) {
+//   console.log(s[i])
+//   if (s[i] === "!") {
+//     z = s.slice(s[i])
+//   }
+// }
+// return z
+// }
+// remove("Hi!!")
