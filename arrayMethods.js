@@ -139,3 +139,54 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 // return z
 // }
 // remove("Hi!!")
+// ........................................................
+
+// Fizz Buzz problem
+// function fizzbuzz(n) {
+//   let z = []
+//   for (let i = 1; i <= n; i++) {
+//     z.push(i)
+//   }
+//   console.log(z)
+//   let x = z.map((elm, index) => {
+//     if ((elm % 3 === 0)  && (elm % 5 === 0)) {
+//       return "FizzBuzz"
+//     } else if ((elm % 3 === 0)) {
+//       return "Fizz"
+//     } else if(elm % 5 === 0) {
+//       return "Buzz"
+//     }  else {
+//       return elm
+//     }
+//   })
+//   return x
+// }
+// fizzbuzz(30)
+// .............................................................
+// // Change two-dimensional array
+// function matrix(array) {
+//   return array.map((item, index) => {
+//     // debugger
+//     return item.map((elm, ind) => {
+//       if (index === ind) {
+//         if (elm < 0) {
+//           return 0
+//         }
+
+//         if (elm >= 0) {
+//           return 1
+//         }
+//       }
+//       return elm
+//     })
+//   })
+// }
+// matrix([
+//   [ -1, 4, -5, -9, 3, 8 ],
+//   [ 6, 8, -7, 4, -5, -1 ],
+//   [ 3, 5, 1, -9, -1, 6 ],
+//   [ 1, 5, -7, 15, -9, 3 ],
+//   [ -3, 2, 1, -5, -6, 0 ],
+//   [ 8, 2, 0, -2, 4, -5 ]
+// ])
+// ................................................................
