@@ -190,3 +190,13 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   [ 8, 2, 0, -2, 4, -5 ]
 // ])
 // ................................................................
+// No odd values here
+// function noOdds( values ){
+//   let z= values.filter((elm, index) => {
+//     if (elm % 2 === 0) {
+//       return true
+//     }
+//   })
+//   return z
+// }
+// noOdds( [0,1,2,3])
