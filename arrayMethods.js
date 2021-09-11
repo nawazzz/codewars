@@ -200,3 +200,20 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return z
 // }
 // noOdds( [0,1,2,3])
+// .......................................
+
+
+// Odd or Even test
+
+// function oddOrEven(array) {
+//   let sum = 0
+//   for (let i = 0; i < array.length; i++) {
+//     sum += array[i]
+//   }
+//   if (sum % 2 === 0) {
+//     return "even"
+//   } else if (sum % 2 !== 0) {
+//     return "odd"
+//   }
+// }
+// ...........................................
