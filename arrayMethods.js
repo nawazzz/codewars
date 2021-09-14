@@ -222,3 +222,14 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return str.toUpperCase()
 // }
 // .................................................
+// Return string (Fundamental 8kyu for practice)
+// function greet(name){
+//   return `Hello, ${name} how are you doing today?`
+// }
+// greet("Ryan")
+// ..........................................
+// Return sum of string (Fundamental 8kyu for practice)
+// function sumStr(a,b) {
+//   return String(Number(a) + Number(b))
+// }
+// sumStr("34","5")
