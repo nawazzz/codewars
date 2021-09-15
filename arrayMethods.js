@@ -233,3 +233,9 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return String(Number(a) + Number(b))
 // }
 // sumStr("34","5")
+// .........................................
+// Remove first and last character from string
+// function removeChar(str){
+//   return str.slice(1, (str.length - 1))
+ 
+//  };
