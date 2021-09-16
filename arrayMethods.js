@@ -239,3 +239,12 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return str.slice(1, (str.length - 1))
  
 //  };
+// ..........................................
+// function powersOfTwo(n){
+//   let z = []
+//   for (let i = 0; i <= n; i++) {
+//     z.push(Math.pow(2, i))
+//   }
+//   return z
+// }
+// powersOfTwo(0)
