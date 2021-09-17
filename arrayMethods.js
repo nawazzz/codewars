@@ -248,3 +248,15 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return z
 // }
 // powersOfTwo(0)
+// ...............................................
+// Remove exclamation marks from given string:
+// function removeExclamationMarks(s) {
+//   let z = ""
+//   for (let i = 0; i < s.length; i++) {
+//     if (s[i] !== "!") {
+//       z += s[i]
+//     }
+//   }
+//   return z
+// }
+// removeExclamationMarks("hello world!!!")
