@@ -260,3 +260,11 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return z
 // }
 // removeExclamationMarks("hello world!!!")
+// .................................................
+// change traffic lights
+// function updateLight(current) {
+//   if (current === "green") {return "yellow"}
+//   if (current === "yellow") {return "red"}
+//   if (current === "red") {return "green"}
+// }
+// updateLight("green")
