@@ -268,3 +268,13 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   if (current === "red") {return "green"}
 // }
 // updateLight("green")
+// ...........................
+// string repeat
+// function repeatStr (n, s) {
+//   let res = ''
+//   for (let i = 0; i < n; i++) {
+//     res += s
+//   }
+//   return res
+// }
+// repeatStr(2, "ha ")
