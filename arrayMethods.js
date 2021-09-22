@@ -278,3 +278,14 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return res
 // }
 // repeatStr(2, "ha ")
+//................................
+// Find english word in string
+// function spEng(sentence){
+//   console.log(sentence)
+//   if (sentence.toLowerCase().includes("english")) {
+//     return true
+//   } else {
+//     return false
+//   }
+// }
+// spEng("english")
