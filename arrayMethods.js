@@ -289,3 +289,16 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   }
 // }
 // spEng("english")
+// ......................................
+// sort array
+// const reverseSeq = n => {
+//   let z = [];
+//   for (let i = 1; i <= n; i++) {
+//     z.push(i)
+//   }
+//   return z.sort(function(a,b) {
+//     return b-a
+//   })
+// };
+// reverseSeq(5)
+// .........................................
