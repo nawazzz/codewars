@@ -307,3 +307,14 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return `${obj} are ${feature}`
 // }
 // TempleStrings("Animals","Good")
+// ...........................................
+// Check if can be divided
+// function isDivideBy(number, a, b) {
+//   if (number % a === 0 && number % b === 0) {
+//     return true
+//   } else {
+//     return false
+//   }
+// }
+// isDivideBy(-12, 2, -6)
+// ......................................................
