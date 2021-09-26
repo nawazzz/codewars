@@ -318,3 +318,25 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 // }
 // isDivideBy(-12, 2, -6)
 // ......................................................
+// return yes or no for Boolean
+// function boolToWord( bool ){
+//   if (bool === true) {
+//     return 'Yes'
+//   } else {
+//     return 'No'
+//   }
+// }
+// boolToWord(false)
+// .................................................
+// Hello, Name or World!
+// function hello(name) {
+//   if (name === undefined) {
+//     return "Hello, World!"
+//   }
+//   if (name.length === 0) {
+//     return 'Hello, World!'
+//   }
+//   let result = name[0].toUpperCase() + name.slice(1).toLowerCase()
+//   return `Hello, ${result}!`;
+// }
+// hello()
