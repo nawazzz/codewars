@@ -340,3 +340,13 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return `Hello, ${result}!`;
 // }
 // hello()
+// ....................................................................
+// Keep up the hoop
+// function hoopCount (n) {
+//   if (n >= 10) {
+//     return "Great, now move on to tricks"
+//   } else {
+//     return "Keep at it until you get it"
+//   }
+// }
+// hoopCount(11)
