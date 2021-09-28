@@ -350,3 +350,9 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   }
 // }
 // hoopCount(11)
+// ....................................................................
+// Number to String
+// function numberToString(num) {
+//   return String(num)
+// }
+// numberToString(67)
