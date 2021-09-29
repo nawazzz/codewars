@@ -356,3 +356,9 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return String(num)
 // }
 // numberToString(67)
+// ................................................
+// Write a function "greet" that returns "hello world!"
+// function greet() {
+//   return "hello world!"
+// }
+// greet()
