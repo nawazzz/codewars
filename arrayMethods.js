@@ -362,3 +362,9 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return "hello world!"
 // }
 // greet()
+// ......................................................
+// Function 3 - multiplying two numbers
+// function multiply(x, y) {
+//   return x * y
+// }
+// multiply(2, 3)
