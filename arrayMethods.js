@@ -368,3 +368,13 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return x * y
 // }
 // multiply(2, 3)
+// ......................................................
+// simple multiplication
+// function simpleMultiplication(number) {
+//   if (number % 2 === 0) {
+//     return number * 8
+//   } else {
+//     return number * 9
+//   }
+// }
+// simpleMultiplication(1)
