@@ -378,3 +378,9 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   }
 // }
 // simpleMultiplication(1)
+// ............................................................
+// squaring an argument
+// function square(n) {
+//   return Math.pow(n, 2)
+// }
+// square(3, 2)
