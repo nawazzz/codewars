@@ -384,3 +384,16 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return Math.pow(n, 2)
 // }
 // square(3, 2)
+// .............................................
+// return average
+// function find_average(array) {
+//   if (array.length < 1) {
+//     return 0
+//   }
+//  let z = 0
+//  for (let i = 0; i < array.length; i++) {
+//    z += array[i]
+//  }
+//   return z / array.length
+// }
+// find_average([1,1,1])
