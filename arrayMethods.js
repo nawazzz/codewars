@@ -397,3 +397,15 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return z / array.length
 // }
 // find_average([1,1,1])
+// ...............................................
+// return odd
+// function odds(values){
+//   let z = []
+//   for (let i = 0; i < values.length; i++) {
+//     if (values[i] % 2 !== 0) {
+//       z.push(values[i])
+//     }
+//   }
+//   return z
+// }
+// odds([2, 4, 6])
