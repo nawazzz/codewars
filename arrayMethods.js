@@ -409,3 +409,11 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   return z
 // }
 // odds([2, 4, 6])
+// ...............................................
+// return multiplied value
+// function problem(x){
+//   if (typeof(x) === "string") {
+//     return "Error"
+//   }
+//   return x * 50 + 6
+// }
