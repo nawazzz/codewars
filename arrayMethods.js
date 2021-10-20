@@ -423,3 +423,18 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   // put your code here
 //   return Number(str);
 // }
+// ..........................................
+// add 5 to any given number
+// function addFive(num) {
+//   var total = num + 5
+//   return total
+// }
+// ..............................................
+// double string characters
+// function doubleChar(str) {
+//   let result = ''
+//   for (let i = 0; i < str.length; i++) {
+//     result += str[i] + str[i]
+//   }
+//   return result
+// }
