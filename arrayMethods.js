@@ -417,3 +417,9 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   }
 //   return x * 50 + 6
 // }
+// ......................................
+// string to Number function
+// var stringToNumber = function(str){
+//   // put your code here
+//   return Number(str);
+// }
