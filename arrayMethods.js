@@ -444,3 +444,10 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
   // i will be an integer. Double it and return it.
 //   return i + i;
 // }
+// ................................
+// odd or even
+// function testEven(n) {
+//   if (n%2 === 0) {
+//     return true
+//   } else {return false}
+// }
