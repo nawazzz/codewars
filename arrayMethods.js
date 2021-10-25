@@ -451,3 +451,20 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //     return true
 //   } else {return false}
 // }
+// ..................................................
+// Drink about
+// function peopleWithAgeDrink(old) {
+//   console.log(old)
+//   if (old < 14) {
+//     return "drink toddy"
+//   }
+//   if (old < 18) {
+//     return "drink coke"
+//   }
+//   if (old < 21) {
+//     return "drink beer"
+//   }
+//   if (old < 30) {
+//     return "drink whisky"
+//   }
+// };
