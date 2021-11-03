@@ -473,3 +473,13 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 // function litres(time) {
 //   return Math.floor(time * 0.5)
 // }
+// ..........................................
+// function isPalindrome(line) {
+//   console.log(line.reverse())
+//   if (line === line.split("").reverse().join("")) {
+//     return true
+//   } else {
+//     return false
+//   }
+// }
+// isPalindrome("anna")
