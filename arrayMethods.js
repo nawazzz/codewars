@@ -483,3 +483,13 @@ indexOf([1, 2, 3, 4, 5, 6, 7], indexOfOne)
 //   }
 // }
 // isPalindrome("anna")
+// .....................................
+// Capitalization and Mutability
+// function capitalizeWord(word) {
+//   let result = word[0].toUpperCase();
+// for (let i = 1; i < word.length; i++) {
+//   result += word[i]
+// }
+// return result
+// }
+// capitalizeWord('glasswear')
